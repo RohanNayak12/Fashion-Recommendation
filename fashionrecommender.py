@@ -93,4 +93,3 @@ for i in indices[0][1:5]:
   cv2_imshow(cv2.resize(temp_img,(512,512)))
   cv2.waitKey(0)
 
-ka
